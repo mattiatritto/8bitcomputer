@@ -2,6 +2,7 @@
 
 This is a brief documentation about a simple **8 bit computer** based on ASAP architecture (*As Simple As Possible Architecture*).
 
+
 For all the parts, I'm going to explain briefly how it works and schematics to build on your own.
 
 
