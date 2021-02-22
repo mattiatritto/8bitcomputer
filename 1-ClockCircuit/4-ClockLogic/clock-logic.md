@@ -6,6 +6,8 @@ There is a slide-switch (bistable 555 configuration) to select between automatic
 
 Here's the circuit that will do for us the trick:
 
+![alt text](https://github.com/mattiatritto/8bitcomputer/blob/master/1-ClockCircuit/4-ClockLogic/images/clock-logic.png)
+
 ## Components
 
 I used three basic chips: 74LS04 (inverter), 74LS08 (AND), 74LS32 (OR).
