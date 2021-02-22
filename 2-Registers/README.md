@@ -16,11 +16,11 @@ The "LOAD" option is related to the register, the "ENABLE" option is related to 
 
 4-Bit register schematics:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/mattiatritto/8bitcomputer/blob/master/2-Registers/images/4bit-register.png)
 
 Octal Bus Transceiver schematics:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/mattiatritto/8bitcomputer/blob/master/2-Registers/images/octal-bus-transceiver.png)
 
 ## Sitography
 
