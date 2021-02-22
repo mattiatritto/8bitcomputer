@@ -10,7 +10,7 @@ So we build a **debounce circuit** to avoid that buttons contacts bounce.
 
 
 Circuit Schematics: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/mattiatritto/8bitcomputer/blob/master/1-ClockCircuit/2-MonostableTimer/images/monostable555.png)
 
 When a negative (0 Volts) pulse is applied to the trigger input (PIN 2) of the monostable configured 555 Timer oscillator, the internal comparator detects this input and sets the state of the flip-flop changing the output from a LOW state to a HIGH state. This action in turn turns OFF the discharge transistor connected to PIN 7, thereby removing the short circuit across the external timing capacitor C1.
 
