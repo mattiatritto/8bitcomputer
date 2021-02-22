@@ -20,9 +20,9 @@ This action allows the timing capacitor to start to charge up through resistor R
 
 The Monostable 555 Timer circuit **triggers on a negative-going pulse applied to PIN 2** and this trigger pulse must be much shorter than the output pulse width allowing time for the timing capacitor to charge and then discharge instantly. Once triggered, the 555 Monostable will remain in this **HIGH unstable output state until the time period set up by the R1 x C1 network has elapsed**. The ammount of time that the output voltage remains HIGH is given by the following time constant equation:
 
-            ***tau = 1.1 x R1 x C1***
-
+&tau;  = 1.1 &middot; R<sub>1</sub> &middot; C<sub>1</sub>
 
 ## Sitography
 
-[Electronics tutorial](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
+- [Electronics tutorial](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
+
