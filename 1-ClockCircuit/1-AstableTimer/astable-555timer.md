@@ -5,7 +5,7 @@ For the 8 bit computer, we want to build a **clock circuit** that regulate all t
 
 ## 555 Oscillator circuit
 
-![Schematics](https://github.com/mattiatritto/8bitcomputer/blob/master/1-ClockCircuit/1-AstableTimer/images/555-timer.png)
+![Schematics](https://github.com/mattiatritto/8bitcomputer/blob/master/1-ClockCircuit/1-AstableTimer/images/555circuit-image.png)
 
 In the **555 Oscillator circuit** above, pin 2 and pin 6 are connected together allowing the circuit to re-trigger itself on each and every cycle 
 allowing it to operate as a free running oscillator. 
