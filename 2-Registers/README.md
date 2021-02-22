@@ -24,4 +24,4 @@ Octal Bus Transceiver schematics:
 
 ## Sitography
 
-[What is a register](https://en.wikipedia.org/wiki/Processor_register)
+- [What is a register](https://en.wikipedia.org/wiki/Processor_register)
